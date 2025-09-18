@@ -1,27 +1,27 @@
 {
-    "name": "com.evil-octane.serialization.json",
-    "displayName": "EvilOctane Serialization Json",
-    "version": "0.1.0-preview.1",
-    "description": "Source generation based JSON serialization library working directly on Unity's native and unsafe collections.",
-    "unity": "6000.0",
-    "unityRelease": "0f1",
-    "documentationUrl": "https://github.com/egor-nvkv/EvilOctane.Serialization.Json/blob/master/README.md",
-    "changelogUrl": "https://github.com/egor-nvkv/EvilOctane.Serialization.Json/CHANGELOG.md",
-    "licensesUrl": "https://github.com/egor-nvkv/EvilOctane.Serialization.Json/blob/master/LICENSE",
-    "dependencies": {
-        "com.unity.burst": "1.8.25",
-        "com.unity.collections": "2.6.0-pre.4",
-        "com.unity.mathematics": "1.3.2",
-        "com.unity.test-framework": "1.5.1",
-        "com.unity.test-framework.performance": "3.1.0"
-    },
-    "keywords": [
-        "dots",
-        "json",
-        "serialization"
-    ],
-    "author": {
-        "name": "Egor Novikov",
-        "url": "https://github.com/egor-nvkv"
-    }
+  "name": "com.evil-octane.serialization.json",
+  "displayName": "EvilOctane Serialization Json",
+  "version": "0.1.0",
+  "unity": "6000.0",
+  "unityRelease": "0f1",
+  "description": "Source generation based JSON serialization library working directly on Unity's native and unsafe collections.",
+  "keywords": [
+    "dots",
+    "json",
+    "serialization"
+  ],
+  "dependencies": {
+    "com.unity.burst": "1.8.25",
+    "com.unity.collections": "2.6.0-pre.4",
+    "com.unity.mathematics": "1.3.2",
+    "com.unity.test-framework": "1.5.1",
+    "com.unity.test-framework.performance": "3.1.0"
+  },
+  "author": {
+    "name": "Egor Novikov",
+    "url": "https://github.com/egor-nvkv"
+  },
+  "changelogUrl": "https://github.com/egor-nvkv/EvilOctane.Serialization.Json/CHANGELOG.md",
+  "documentationUrl": "https://github.com/egor-nvkv/EvilOctane.Serialization.Json/blob/master/README.md",
+  "licensesUrl": "https://github.com/egor-nvkv/EvilOctane.Serialization.Json/blob/master/LICENSE"
 }
